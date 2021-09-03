@@ -2,7 +2,7 @@
 type: lecture
 date: 2022-01-06T17:00:00-8:00
 title: Vector and matrix arithmetics
-description: "Geometrical interpretations of vectors and matrices. Inner and outer products. "
+description: "Defining and using vectors and matrices. Dot products between vectors and matrix multiplications."
 thumbnail: /static_files/lectures/sample_lecture_img.png
 
 hide_from_announcments: true

@@ -2,7 +2,7 @@
 type: lecture
 date: 2022-02-17T17:00:00-8:00
 title: Calculus
-description: "Calculus topics important for dynamical systems analysis and machine learning. Gradients, differential equations, etc."
+description: "Calculus topics building up to differential equations, dynamical systems analysis and gradients."
 thumbnail: /static_files/lectures/sample_lecture_img.png
 
 hide_from_announcments: true

@@ -2,7 +2,7 @@
 type: lecture
 date: 2022-02-03T17:00:00-8:00
 title: Probabilistic thinking
-description: "Concepts in marginal and conditional probability. Common probability distribtuions, such as Gaussian, Bernoulli, Poisson, etc. Bayesian probability."
+description: "Probability distributions and where they come about in analyzing data. Concepts in marginal and conditional probability. Common probability distributions, such as Gaussian, Bernoulli, Poisson, etc. Bayesian probability."
 thumbnail: /static_files/lectures/sample_lecture_img.png
 
 hide_from_announcments: true

@@ -2,7 +2,7 @@
 type: lecture
 date: 2022-01-20T17:00:00-8:00
 title: Linear algebra
-description: "Basic concepts in linear algebra such as eigenvalues, eigenvectors, and matrix decompositions, building up to applied topics such as Principal Components Analysis (PCA) and convolutions."
+description: "Basic concepts in linear algebra: matrix multiplication, building up to applied topics such as Principal Components Analysis (PCA) and convolutions."
 thumbnail: /static_files/lectures/sample_lecture_img.png
 
 hide_from_announcments: true
