@@ -1,7 +1,8 @@
 <ul class="menu">
     {% for item in site.data.nav.items %}
     <li>
-        <a class="page-link" href="{{ item.url | prepend: site.baseurl }}">
+        {% if item.url_internal %}<a class="page-link" href="{{ item.url_internal | prepend: site.baseurl }}">
+        {% elsif item.url_external %}<a class="page-link" href="{{ item.url_external }}">{% endif %}
             <i class="{{ item.icon_class }}"></i> {{ item.name }}
         </a>
     </li>
