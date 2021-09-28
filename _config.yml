@@ -35,6 +35,8 @@ dateformat: "%a %-m/%-d/%Y"
 onlydateformat: "%-m/%-d/%Y"
 timeformat: "%-I:%M %p"
 
+timezone: America/Los_Angeles
+
 future: true
 collections:
     events:
