@@ -2,7 +2,7 @@
 type: lecture
 date: 2022-01-13T17:00:00-8:00
 title: Programming basics (Optional) 
-description: "Python programming skills needed for this course, Computational Core, and Cognitive Core. "
+description: "Programming basics. Introduction to Colab notebooks and Python syntax. NumPy."
 thumbnail: /static_files/lectures/sample_lecture_img.png
 
 hide_from_announcments: true

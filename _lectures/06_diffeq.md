@@ -1,8 +1,8 @@
 ---
 type: lecture
-date: 2022-02-17T17:00:00-8:00
-title: Calculus
-description: "Calculus topics building up to differential equations, dynamical systems analysis and gradients."
+date: 2022-03-03T17:00:00-8:00
+title: Differential Equations
+description: "Introduction to ODEs and methods for solving. Linear dynamical systems. Leaky integrate-and-fire model neuron."
 thumbnail: /static_files/lectures/sample_lecture_img.png
 
 hide_from_announcments: true

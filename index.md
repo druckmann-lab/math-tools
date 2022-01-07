@@ -8,3 +8,5 @@ The class should be painless, and perhaps enjoyable, even for those who don't no
 Our course meets every other Thursday, 5:00 PM - 6:30 PM, starting 1/6/2022 and ending 3/3/2022. Office hours meet on the other alternating Thursdays at the same time, starting 1/13/2022 and ending 3/10/2022.
 
 Register to our [Piazza](https://piazza.com/stanford/winter2022/nepr209) to get course notifications and to engage in all class-related discussions.
+
+Please find our syllabus [here](https://docs.google.com/document/d/1hZ9mx1ElP2E57h7my6VHZczdwuyus4wrUkF0JfDnkzk).

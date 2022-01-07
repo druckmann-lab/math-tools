@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 2022-01-06T17:00:00-8:00
-title: Vector and matrix arithmetics
-description: "Defining and using vectors and matrices. Dot products between vectors and matrix multiplications."
+title: Linear Algebra I
+description: "Course goals and logistics. Vectors, linear combinations, span, matrices as linear transformations, matrix multiplication, determinants, matrix inverse, range, nullspace."
 thumbnail: /static_files/lectures/sample_lecture_img.png
 
 hide_from_announcments: true
@@ -15,6 +15,6 @@ hide_from_announcments: true
 #    - url: https://google.com
 #      name: slides
 ---
-[//]: # **Suggested Readings:**
-[//]: # - [Readings 1](http://example.com)
+# **Suggested Material:**
+# - [3Brown1Blue "Essence of Linear Algebra"](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 [//]: # - [Readings 2](http://example.com)
