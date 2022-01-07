@@ -15,6 +15,6 @@ hide_from_announcments: true
 #    - url: https://google.com
 #      name: slides
 ---
-# **Suggested Material:**
-# - [3Brown1Blue "Essence of Linear Algebra"](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+**Suggested Material:**
+- [3Brown1Blue "Essence of Linear Algebra"](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 [//]: # - [Readings 2](http://example.com)
