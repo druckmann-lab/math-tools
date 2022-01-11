@@ -2,7 +2,7 @@
 type: assignment
 date: 2022-01-10T23:00:00-8:00
 title: 'Assignment #0 - Linear Algebra I'
-attachment: https://colab.research.google.com/drive/1qpUUJiVOYMD3vHVb22emOUYn4awVoSs-?usp=sharing
+colab: https://colab.research.google.com/drive/1qpUUJiVOYMD3vHVb22emOUYn4awVoSs-?usp=sharing
 due_event: 
     type: due
     date: 2022-01-19T23:59:00-8:00

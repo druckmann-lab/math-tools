@@ -2,7 +2,7 @@
 type: assignment
 date: 2022-01-10T23:00:00-8:00
 title: 'Assignment #0.5 - Programming Basics'
-attachment: https://colab.research.google.com/drive/1EpKdT1DuscfTMwp29XZyfUpfN455D3Z1?usp=sharing
+colab: https://colab.research.google.com/drive/1EpKdT1DuscfTMwp29XZyfUpfN455D3Z1?usp=sharing
 due_event: 
     type: due
     date: 2022-01-19T23:59:00-8:00
