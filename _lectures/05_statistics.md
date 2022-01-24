@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2022-02-17T17:00:00-8:00
-title: Probability and Statistics I
+title: Probability and Statistics II
 description: "Applied statistics. Significance testing using formal methods (e.g. T-test, ANOVA) vs. resampling techniques (bootstrapping & permutation testing). Model selection using cross validation."
 thumbnail: /static_files/lectures/sample_lecture_img.png
 
