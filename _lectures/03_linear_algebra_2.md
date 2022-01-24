@@ -2,7 +2,7 @@
 type: lecture
 date: 2022-01-20T17:00:00-8:00
 title: Linear Algebra II
-description: "Linear regression with linear algebra, eigenvalues and eigenvectors, principal components analysis (PCA)."
+description: "Change of basis, eigenvalues and eigenvectors, principal components analysis (PCA)."
 thumbnail: /static_files/lectures/sample_lecture_img.png
 
 hide_from_announcments: true
