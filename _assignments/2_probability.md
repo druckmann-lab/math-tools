@@ -2,7 +2,7 @@
 type: assignment
 date: 2022-02-07T00:00:00-8:00
 title: 'Assignment #2 - Probability'
-attachment: https://druckmann-lab.github.io/math-tools-intro-2022/assignments/2_probability_written_exercises.pdf
+pdf: /assignments/2_probability_written_exercises.pdf
 colab: https://colab.research.google.com/drive/1WlwjenmVlSeOLUogxbjMQBXqCIEmX_pY
 due_event: 
     type: due
