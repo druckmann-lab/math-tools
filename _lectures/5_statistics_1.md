@@ -2,7 +2,7 @@
 type: lecture
 date: 2023-03-02T17:00:00-8:00
 title: Statistics I
-description: "Applied statistics. Significance testing using formal methods (e.g. T-test, ANOVA) vs. resampling techniques (bootstrapping & permutation testing). Model selection using cross validation."
+description: "Applied statistics with emphasis on resampling techniques (bootstrapping & permutation testing) for significance testing. Model selection using cross validation."
 thumbnail: /static_files/lectures/sample_lecture_img.png
 
 hide_from_announcments: true
