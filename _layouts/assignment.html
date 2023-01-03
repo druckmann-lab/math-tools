@@ -11,8 +11,10 @@ title: page.title
 
   <div>
     {% if page.due_event %}
-    <span style="font-weight: bold">Due Date: {{ page.due_event.date | date: site.dateformat }} {{ page.due_event.date | date: "%H:%M" }}</span>
+    <span style="font-weight: bold">Due Date: {{ page.due_event.date | date: site.dateformat }} {{ page.due_event.date | date: site.timeformat }}</span>
     {% endif %}
+
+    {% unless page.not_released %}
     <p style="font-weight: bold">
       {% if page.colab %}
       [<a href="{{ page.colab }}">Colab</a>]
@@ -38,5 +40,13 @@ title: page.title
   <article class="post-content">
     {{ content }}
   </article>
+  {% endunless %}
+
+  {% if page.not_released %}
+  <br /><br />
+  <article class="post-content">
+    Additional details are on the way.
+  </article>
+  {% endif %}
 
 </div>
