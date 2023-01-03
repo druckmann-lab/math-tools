@@ -5,8 +5,8 @@ As we learn more about the brain, the field of neuroscience is becoming increasi
 
 The class should be painless, and perhaps enjoyable, even for those who don't normally like math or programming classes. Because the best way to learn is by doing rather than watching, there is a problem set associated with each lecture. Recognizing your workload in labs and other coursework, we will work hard to minimize work while maximizing learning.
 
-Our course meets every Thursday, 5:00 PM - 6:30 PM, starting 1/12/2022 and ending 3/16/2022. We will alternate (roughly) between lectures and in-class problem set sessions. Please visit the Schedule page for more details.
+Our course meets every other Thursday, 5:00 PM - 6:30 PM, starting 1/6/2022 and ending 3/3/2022. Office hours meet on the other alternating Thursdays at the same time, starting 1/13/2022 and ending 3/10/2022.
 
-Join our [Ed](https://edstem.org/us/courses/32366) to get course notifications and to engage in all class-related discussions.
+Register to our [Piazza](https://piazza.com/stanford/winter2022/nepr209) to get course notifications and to engage in all class-related discussions.
 
-Please find our syllabus [here](https://docs.google.com/document/d/1lDhTMvB_ua3-7DrZZ5fEX70rL45-MTcqwAn3FcEmGlY/edit?usp=share_link).
+Please find our syllabus [here](https://docs.google.com/document/d/1hZ9mx1ElP2E57h7my6VHZczdwuyus4wrUkF0JfDnkzk).

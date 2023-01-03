@@ -2,9 +2,9 @@
 course_name: Introduction to Mathematical Tools in Neuroscience
 course_description: "The goal of the class is to equip students with an intuitive grasp for some of the computational techniques commonly employed in neuroscience through a fun and relaxed environnoment."
 
-course_semester: "Winter 2023"
+course_semester: "Winter 2022"
 
-baseurl: "/math-tools-intro" # the subpath of your site, e.g. /blog/
+baseurl: "/math-tools-intro-2022" # the subpath of your site, e.g. /blog/
 url: "http://druckmann-lab.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Stanford University"

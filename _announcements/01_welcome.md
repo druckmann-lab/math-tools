@@ -1,15 +1,15 @@
 ---
-date: 2021-01-05T00:00:00-8:00
+date: 2023-01-05T00:00:00-8:00
 ---
 Welcome everyone!
 
 
-We’re looking forward to meeting you all for our first class tomorrow (Thursday, 1/6) at 5pm! The first class will be on Zoom (link on Canvas).
+We’re looking forward to meeting you all for our first class on Thursday, 1/12 at 5pm!
 
 We’ll start with a brief discussion of course logistics, and then jump straight into learning the maths and the tools! :)
 
 
-Please register to our [Piazza](https://piazza.com/stanford/winter2022/nepr209) for all course discussions and announcements.
+Please join our [Ed](https://edstem.org/us/courses/32366) for all course discussions and announcements.
 
 
 Minseung and John
