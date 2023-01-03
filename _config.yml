@@ -4,7 +4,7 @@ course_description: "The goal of the class is to equip students with an intuitiv
 
 course_semester: "Winter 2023"
 
-baseurl: "/math-tools-intro" # the subpath of your site, e.g. /blog/
+baseurl: "/math-tools" # the subpath of your site, e.g. /blog/
 url: "http://druckmann-lab.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Stanford University"
