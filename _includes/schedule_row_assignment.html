@@ -3,11 +3,17 @@
     {{ include.event.date | date: site.dateformat }}
 </div>
 <div class="col col-2" style="font-weight: bold" data-label="Description">
-    {{ include.event.title }} released!
+    {{ include.event.title }} released
 </div>
 <div class="col col-4" data-label="Course Material">
+    {% if include.event.not_released %}
+    {{ include.event.title }}
+    {% else %}
     [<a href="{{ include.event.url | prepend: site.baseurl}}">{{ include.event.title }}</a>]
+    {% endif %}
     {% if include.event.solutions %}
+    {% unless include.event.not_released%}
     [<a href="{{ include.event.solutions | prepend: site.baseurl}}">Solutions</a>]
+    {% endunless %}
     {% endif %}
 </div>
