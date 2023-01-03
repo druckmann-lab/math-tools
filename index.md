@@ -5,7 +5,7 @@ As we learn more about the brain, the field of neuroscience is becoming increasi
 
 The class should be painless, and perhaps enjoyable, even for those who don't normally like math or programming classes. Because the best way to learn is by doing rather than watching, there is a problem set associated with each lecture. Recognizing your workload in labs and other coursework, we will work hard to minimize work while maximizing learning.
 
-Our course meets every Thursday, 5:00 PM - 6:30 PM, starting 1/12/2022 and ending 3/16/2022. We will alternate (roughly) between lectures and in-class problem set sessions. Please visit the Schedule page for more details.
+Our course meets every Thursday, 5:00 PM - 6:30 PM, starting 1/12/2022 and ending 3/16/2022. We will alternate (roughly) between lectures and in-class problem solving sessions. Please visit the Schedule page for more details.
 
 Join our [Ed](https://edstem.org/us/courses/32366) to get course notifications and to engage in all class-related discussions.
 
