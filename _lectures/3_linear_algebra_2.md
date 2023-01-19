@@ -1,6 +1,7 @@
 ---
 type: lecture
 date: 2023-02-02T17:00:00-8:00
+location: Alway M106
 title: Linear Algebra II
 description: "Change of basis, eigenvalues and eigenvectors, principal components analysis (PCA)."
 thumbnail: /static_files/lectures/sample_lecture_img.png

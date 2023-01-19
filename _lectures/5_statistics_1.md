@@ -1,6 +1,7 @@
 ---
 type: lecture
 date: 2023-03-02T17:00:00-8:00
+location: Alway M114
 title: Statistics I
 description: "Applied statistics with emphasis on resampling techniques (bootstrapping & permutation testing) for significance testing. Model selection using cross validation."
 thumbnail: /static_files/lectures/sample_lecture_img.png

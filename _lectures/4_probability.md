@@ -1,6 +1,7 @@
 ---
 type: lecture
 date: 2023-02-16T17:00:00-8:00
+location: LKSC 205/206
 title: Probability
 description: "Introduction to basic probability theory & useful distributions (normal, binomial, poisson)"
 thumbnail: /static_files/lectures/sample_lecture_img.png
