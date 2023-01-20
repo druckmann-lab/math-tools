@@ -3,7 +3,7 @@ type: assignment
 date: 2023-01-19T18:30:00-8:00
 title: 'Assignment #1 - Linear Algebra I'
 colab: https://colab.research.google.com/drive/1aQ7FHRSN0kblwqKkPL6EhW0LXm7eqWKn?usp=share_link
-not_released: true
+not_released: false
 due_event: 
     type: due
     date: 2023-02-01T23:59:59-8:00
