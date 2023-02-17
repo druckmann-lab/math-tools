@@ -4,7 +4,7 @@ date: 2023-02-16T18:30:00-8:00
 title: 'Assignment #3 - Probability'
 pdf: /assignments/3_probability_written_exercises.pdf
 colab: https://colab.research.google.com/drive/1s_EBIxpun4aO412badMC1OyaWlLlXbGV?usp=share_link
-not_released: true
+not_released: false
 due_event: 
     type: due
     date: 2023-03-01T23:59:00-8:00
