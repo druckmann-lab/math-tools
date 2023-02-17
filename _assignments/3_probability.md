@@ -16,4 +16,4 @@ This assignment has both a written portion and a programming portion.
 
 To work on the programming part, please copy the linked notebook into your own Google Drive. 
 
-To submit the assignment, please download the .ipynb file and submit it on Canvas before the deadline. For the written part (exercises 0, 1, and 2), please submit your write-up as a PDF, either LaTeXed or hand-written and scanned.
+To submit the assignment, please download the .ipynb file and submit it on Canvas before the deadline. For the written part (exercises 1, 2, and 3), please submit your write-up as a PDF, either LaTeXed or hand-written and scanned.
