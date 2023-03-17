@@ -3,7 +3,7 @@ type: assignment
 date: 2023-03-16T18:30:00-8:00
 title: 'Assignment #5 - Statistics II'
 colab: https://colab.research.google.com/drive/1KEGyoY_ydduNGLeTU5gMbbJ05jafBfBL?usp=share_link
-not_released: true
+not_released: false
 due_event: 
     type: due
     date: 2023-03-23T23:59:00-8:00
