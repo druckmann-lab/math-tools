@@ -6,7 +6,7 @@ colab: https://colab.research.google.com/drive/1KEGyoY_ydduNGLeTU5gMbbJ05jafBfBL
 not_released: false
 due_event: 
     type: due
-    date: 2023-03-23T23:59:00-8:00
+    date: 2023-03-24T23:59:00-8:00
     description: 'Assignment #5 - Statistics II due'
 ---
 This is the homework corresponding to the Statistics II lecture. It covers the concepts of linear regression, GLM, and broader systems neuroscience.
