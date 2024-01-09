@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-03-14T17:00:00-8:00
+date: 2024-03-14T17:00:00-7:00
 location: LKSC 308
 title: Multivariate Statistics
 description: "Analysis of variance (ANOVA), linear regression, generalized linear model (GLM)."
