@@ -4,7 +4,7 @@ date: 2024-02-29T18:30:00-8:00
 title: 'Assignment #4 - Probability'
 pdf: /assignments/4_probability_written_exercises.pdf
 colab: https://colab.research.google.com/drive/1KuRVr9qslWA_OzeM3c3X11QpcyB2D4mH?usp=sharing
-not_released: false
+not_released: true
 due_event: 
     type: due
     date: 2024-03-15T23:59:00-7:00

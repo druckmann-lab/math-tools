@@ -3,7 +3,7 @@ type: assignment
 date: 2024-02-01T18:30:00-8:00
 title: 'Assignment #2 - Linear Algebra II'
 colab: https://colab.research.google.com/drive/1en-jANhsR1n-2P0JRJr5VVUNU-qWhDN_?usp=sharing
-not_released: false
+not_released: true
 due_event: 
     type: due
     date: 2024-02-14T23:59:00-8:00
