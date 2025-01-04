@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2024-01-18T17:00:00-8:00
-location: LKSC 308
+date: 2025-01-16T17:00:00-8:00
+location: CCSR 4205
 title: Linear Algebra I
 description: "Vectors, linear combinations, span, matrices as linear transformations, matrix multiplication, determinants."
 thumbnail: /static_files/lectures/sample_lecture_img.png

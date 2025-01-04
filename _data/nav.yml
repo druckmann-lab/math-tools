@@ -15,9 +15,9 @@ items:
   name: Assignments
   icon_class: fas fa-user-graduate
 
-- url_external: https://edstem.org/us/courses/51930
-  name: Ed
-  icon_class: fas fa-book
+#- url_external: https://edstem.org/us/courses/51930
+#  name: Ed
+#  icon_class: fas fa-book
 
 #- url_internal: /project/
 #  name: Project

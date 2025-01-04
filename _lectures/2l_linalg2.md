@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2024-02-01T17:00:00-8:00
-location: LKSC 308
+date: 2025-01-30T17:00:00-8:00
+location: CCSR 4205
 title: Linear Algebra II
 description: "Matrix inverse, range, nullspace, change of basis, projection."
 thumbnail: /static_files/lectures/sample_lecture_img.png

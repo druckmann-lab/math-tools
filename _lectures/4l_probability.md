@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2024-02-29T17:00:00-8:00
-location: LKSC 308
+date: 2025-02-27T17:00:00-8:00
+location: CCSR 4205
 title: Probability
 description: "Introduction to basic probability theory, bernoulli processes, expectation, variance, poisson processes."
 thumbnail: /static_files/lectures/sample_lecture_img.png

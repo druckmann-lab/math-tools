@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2024-02-15T17:00:00-8:00
-location: LKSC 308
+date: 2025-02-13T17:00:00-8:00
+location: CCSR 4205
 title: Statistics and PCA
 description: "Normal distribution, mean, variance, covariance, principal components analysis, denoising, dimensionality reduction."
 thumbnail: /static_files/lectures/sample_lecture_img.png

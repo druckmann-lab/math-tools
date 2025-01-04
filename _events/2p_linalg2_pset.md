@@ -1,7 +1,7 @@
 ---
 type: raw_event
-date: 2024-02-08T17:00:00-8:00
-location: LKSC 308
+date: 2025-02-06T17:00:00-8:00
+location: CCSR 4205
 name: 'Problem Solving'
 description: 'In-class problem solving session for Linear Algebra II.'
 hide_from_announcments: true

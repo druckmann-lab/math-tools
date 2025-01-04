@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2024-03-14T17:00:00-7:00
-location: LKSC 308
+date: 2025-03-13T17:00:00-7:00
+location: CCSR 4205
 title: ANOVA & Linear Regression
 description: "Analysis of variance (ANOVA) and linear regression."
 thumbnail: /static_files/lectures/sample_lecture_img.png
