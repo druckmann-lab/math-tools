@@ -7,4 +7,4 @@ The class should be painless, and perhaps enjoyable, even for those who don't no
 
 Our course meets every Thursday, 5:00 PM - 6:30 PM, starting 1/09/2025 and ending 3/13/2025. We will alternate (roughly) between lectures and in-class problem solving sessions. Please visit the Schedule page for more details.
 
-Please find our syllabus [here](https://docs.google.com/document/d/18XairGmjWzrAgQ71ykIj4SYWqPeGNjHqsqkzwB_CYAQ/edit?usp=sharing).
+Please find our syllabus [here](https://docs.google.com/document/d/1QJB3OwH2rWYQyIFChL376G9fWCMWejeA3u9Pg89vcWE/edit?usp=sharing).

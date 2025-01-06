@@ -1,13 +1,13 @@
 ---
 type: assignment
-date: 2024-02-29T18:30:00-8:00
+date: 2025-02-27T18:30:00-8:00
 title: 'Assignment #4 - Probability'
 pdf: /assignments/4_probability_written_exercises.pdf
 colab: https://colab.research.google.com/drive/1KuRVr9qslWA_OzeM3c3X11QpcyB2D4mH?usp=sharing
 not_released: true
 due_event: 
     type: due
-    date: 2024-03-15T23:59:00-7:00
+    date: 2025-03-12T23:59:00-7:00
     description: 'Assignment #4 - Probability due'
 ---
 This is the homework corresponding to the Probability lecture. It covers the concepts of marginal and conditional probabilities, Bayes rule, Bernoulli processes, and Poisson processes.
