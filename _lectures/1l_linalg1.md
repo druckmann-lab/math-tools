@@ -8,6 +8,10 @@ thumbnail: /static_files/lectures/sample_lecture_img.png
 
 hide_from_announcments: true
 
+links: 
+    - url: /static_files/notes/linalg_lecture_1.pdf
+      name: Linear Algebra I - lecture notes
+
 #links: 
 #    - url: /static_files/presentations/lec.zip
 #      name: notes
