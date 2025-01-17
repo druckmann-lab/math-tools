@@ -9,7 +9,7 @@ due_event:
     date: 2025-02-26T23:59:00-8:00
     description: 'Assignment #3 - Statistics and PCA due'
 ---
-This is the homework corresponding to the Statistics and PCA lecture. It covers the concepts of Normal distribution, mean, variance, covariance, principal components analysis, denoising, and dimensionality reduction.
+This is the homework corresponding to the Statistics and PCA lecture. It covers the concepts of mean, variance, covariance, principal components analysis, denoising, and dimensionality reduction.
 
 To work on the assignment, please copy the linked notebook into your own Google Drive. 
 
