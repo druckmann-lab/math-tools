@@ -2,7 +2,7 @@
 type: assignment
 date: 2025-02-13T18:30:00-8:00
 title: 'Assignment #3 - Statistics and PCA'
-colab: https://colab.research.google.com/drive/1Dv9lelO3ei5pK0wGW57qMydwDmTMyZ17?usp=sharing
+colab: https://colab.research.google.com/drive/1QxZhCikJHnUjk_kIodgPa9xU_T1f6jrr?usp=sharing
 not_released: true
 due_event: 
     type: due

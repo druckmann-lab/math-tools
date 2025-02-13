@@ -8,9 +8,9 @@ thumbnail: /static_files/lectures/sample_lecture_img.png
 
 hide_from_announcments: true
 
-#links: 
-#    - url: /static_files/presentations/lec.zip
-#      name: notes
+links: 
+    - url: https://docs.google.com/presentation/d/16hylbgg34ElT5oUscQT2uTNIniWDXG18tY2Q8PjZujo/edit?usp=sharing
+      name: slides
 #    - url: /static_files/presentations/code.zip
 #      name: codes
 #    - url: https://google.com
