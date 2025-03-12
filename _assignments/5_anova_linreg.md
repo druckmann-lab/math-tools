@@ -2,7 +2,7 @@
 type: assignment
 date: 2025-03-13T18:30:00-7:00
 title: 'Assignment #5 - ANOVA & Linear Regression'
-colab: https://colab.research.google.com/drive/1JjcQtxaMiWfVe_niKW96iN8tVMgaewv9?usp=drive_link
+colab: https://colab.research.google.com/drive/12V0FQvwUZTm-dPuvIQ4HHJrQjrG7PQYk?usp=sharing
 not_released: true
 due_event: 
     type: due
