@@ -1,12 +1,12 @@
 ---
 type: assignment
-date: 2025-02-27T18:30:00-8:00
+date: 2026-02-26T18:30:00-8:00
 title: 'Assignment #4 - Probability'
 colab: https://colab.research.google.com/drive/1J4DlZQt_IUhkhl6nRy8u2nDiljWlkU1e?usp=sharing
 not_released: false
 due_event: 
     type: due
-    date: 2025-03-12T23:59:00-7:00
+    date: 2026-03-11T23:59:00-7:00
     description: 'Assignment #4 - Probability due'
 ---
 This is the homework corresponding to the Probability lecture.

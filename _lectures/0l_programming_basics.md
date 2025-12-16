@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-01-09T17:00:00-8:00
+date: 2026-01-08T17:00:00-8:00
 location: CCSR 4205
 title: Course logistics & Programming basics
 description: "Course goals and logistics. Programming basics. Introduction to Colab notebooks and Python syntax. Numerical program with NumPy."

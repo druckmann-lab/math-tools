@@ -1,9 +1,9 @@
 ---
 type: raw_event
-date: 2025-03-06T17:00:00-8:00
+date: 2026-03-05T17:00:00-8:00
 location: 
-name: 'Class cancelled'
-description: 'Class cancelled on March 6 due to conflict with interviews for the Neurosciences Program.'
+name: 'Pset session'
+description: 'Description'
 hide_from_announcments: false
 hide_time: false
 ---

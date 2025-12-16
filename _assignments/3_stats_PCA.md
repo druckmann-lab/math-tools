@@ -1,12 +1,12 @@
 ---
 type: assignment
-date: 2025-02-13T18:30:00-8:00
+date: 2026-02-12T18:30:00-8:00
 title: 'Assignment #3 - Statistics and PCA'
 colab: https://colab.research.google.com/drive/1QxZhCikJHnUjk_kIodgPa9xU_T1f6jrr?usp=sharing
-not_released: false
+not_released: true
 due_event: 
     type: due
-    date: 2025-02-26T23:59:00-8:00
+    date: 2026-02-25T23:59:00-8:00
     description: 'Assignment #3 - Statistics and PCA due'
 ---
 This is the homework corresponding to the Statistics and PCA lecture. It covers the concepts of mean, variance, covariance, principal components analysis, denoising, and dimensionality reduction.
