@@ -9,7 +9,7 @@ thumbnail: /static_files/lectures/sample_lecture_img.png
 hide_from_announcments: true
 
 links: 
-    - url: https://colab.research.google.com/drive/1c8m5EZKnmFMh86Y585LrA--4wN_5Uxpi?usp=sharing
+    - url: https://colab.research.google.com/drive/1X4psnG4h9OljfYJwxDHadqM66BmhOz--?usp=sharing
       name: Programming Basics Colab Notebook
 ---
 [//]: # **Suggested Readings:**
