@@ -3,14 +3,16 @@ type: lecture
 date: 2026-01-15T17:00:00-8:00
 location: CCSR 4205
 title: Linear Algebra I
-description: "Vectors, linear combinations, span, matrices as linear transformations, matrix multiplication, determinants."
+description: "Vectors, linear combinations, and dot products."
 thumbnail: /static_files/lectures/sample_lecture_img.png
 
 hide_from_announcments: true
 
 links: 
-#    - url: /static_files/notes/linalg_lecture_1.pdf
-#      name: Linear Algebra I - lecture notes
+    - url: /static_files/notes/linalg_lecture_1.pdf
+      name: Linear Algebra I - lecture notes
+    - url: https://docs.google.com/presentation/d/1iMJrGXq7Oj95nd00OtDUAN8Nsflvs0ZIcojVH7JUO2I/edit?usp=sharing
+      name: Linear Algebra I - lecture slides
 
 #links: 
 #    - url: /static_files/presentations/lec.zip

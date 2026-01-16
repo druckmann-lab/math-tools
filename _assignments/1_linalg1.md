@@ -2,7 +2,7 @@
 type: assignment
 date: 2026-01-19T18:30:00-8:00
 title: 'Assignment #1 - Linear Algebra I'
-colab: https://colab.research.google.com/drive/1LU7nulprZ5yC4WVF5TxUzAgLESnb-hrz?usp=sharing
+colab: https://colab.research.google.com/drive/1erkWRy_aihm8Mg1pSXdLUWUdPvpjfRtb?usp=sharing
 not_released: true
 due_event: 
     type: due
