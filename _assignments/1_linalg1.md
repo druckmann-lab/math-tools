@@ -1,15 +1,15 @@
 ---
 type: assignment
-date: 2026-01-19T18:30:00-8:00
+date: 2026-01-16T12:30:00-8:00
 title: 'Assignment #1 - Linear Algebra I'
 colab: https://colab.research.google.com/drive/1erkWRy_aihm8Mg1pSXdLUWUdPvpjfRtb?usp=sharing
-not_released: true
+not_released: false
 due_event: 
     type: due
     date: 2026-01-28T23:59:59-8:00
     description: 'Assignment #1 - Linear Algebra I due'
 ---
-This is the homework corresponding to the Linear Algebra I lecture. It covers the concepts of vectors, vector addition, dot products, and matrix-vector multiplication. 
+This is the homework corresponding to the Linear Algebra I lecture. It covers the concepts of vectors, vector addition, and dot products. 
 
 To work on the assignment, please copy the linked notebook into your own Google Drive. 
 
