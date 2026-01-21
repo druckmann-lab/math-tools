@@ -6,7 +6,7 @@ colab: https://colab.research.google.com/drive/1erkWRy_aihm8Mg1pSXdLUWUdPvpjfRtb
 not_released: false
 due_event: 
     type: due
-    date: 2026-01-28T23:59:59-8:00
+    date: 2026-02-04T23:59:59-8:00
     description: 'Assignment #1 - Linear Algebra I due'
 ---
 This is the homework corresponding to the Linear Algebra I lecture. It covers the concepts of vectors, vector addition, and dot products. 
