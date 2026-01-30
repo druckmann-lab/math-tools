@@ -2,8 +2,8 @@
 type: assignment
 date: 2026-02-04T18:30:00-8:00
 title: 'Assignment #2 - Linear Algebra II'
-colab: https://colab.research.google.com/drive/10mcYoz-iyyEczuPNwZlHk5mPSJrM04tn?usp=sharing
-not_released: true
+colab: 'https://colab.research.google.com/drive/1-Im1dK6JLzBdEvTq5v61zlGW_HtJKDEk?usp=sharing'
+not_released: false
 due_event: 
     type: due
     date: 2026-02-11T23:59:00-8:00
