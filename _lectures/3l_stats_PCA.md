@@ -9,8 +9,8 @@ thumbnail: /static_files/lectures/sample_lecture_img.png
 hide_from_announcments: true
 
 links: 
-#    - url: https://docs.google.com/presentation/d/16hylbgg34ElT5oUscQT2uTNIniWDXG18tY2Q8PjZujo/edit?usp=sharing
-#      name: slides
+    - url: https://docs.google.com/presentation/d/168-eSqdc3XStqEFxBneYc8lKeMW06WEmJS7UuR_OHaI/edit?usp=sharing
+      name: slides
 #    - url: /static_files/presentations/code.zip
 #      name: codes
 #    - url: https://google.com
