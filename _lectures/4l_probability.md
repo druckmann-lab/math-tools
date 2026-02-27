@@ -9,12 +9,12 @@ thumbnail: /static_files/lectures/sample_lecture_img.png
 hide_from_announcments: true
 
 links: 
-#    - url: /static_files/notes/probability.pdf
-#      name: notes
+    - url: https://drive.google.com/file/d/14a3pQYamW8thksElQgGMynRbxubi-OoX/view?usp=sharing
+      name: notes
 #    - url: /static_files/presentations/code.zip
 #      name: codes
-#    - url: https://google.com
-#      name: slides
+    - url: https://docs.google.com/presentation/d/1dZDIsVpP7gcWQ1MvMlYN0K7EfA6eAjG2sN-5kAhW2eA/edit?usp=sharing
+      name: slides
 ---
 [//]: # **Suggested Readings:**
 [//]: # - [Readings 1](http://example.com)
